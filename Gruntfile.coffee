@@ -1,4 +1,4 @@
-{checkContains} = require './src/main'
+{checkContains} = require 'node-preconditions'
 
 module.exports = (grunt) ->
   grunt.initConfig

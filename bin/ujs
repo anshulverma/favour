@@ -1,0 +1,9 @@
+#!/bin/env node
+
+require('../lib/cli')(function(err) {
+  if (err != null) {
+    console.log(err.message);
+    process.exit(1);
+  }
+  process.exit(0);
+});
