@@ -1,10 +1,10 @@
-utiljs
+favour
 ==================
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc/generate-toc again -->
 **Table of Contents**
 
-- [utiljs](#utiljs)
+- [favour](#favour)
     - [Building](#building)
     - [Testing](#testing)
     - [Documentation](#documentation)
